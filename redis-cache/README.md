@@ -27,3 +27,42 @@ Here in this demo, we are using redis to store cache data. By adding the spring-
     <artifactId>spring-boot-starter-data-redis</artifactId>
 </dependency>
 ```
+
+Here we operate several CRUD operations:
+```
+@Service
+@CacheConfig(cacheNames = "com.imcode.cms.news")
+public class NewsServiceImpl extends ServiceImpl<NewsMapper, News> implements INewsService {
+    
+    @Override
+    @Cacheable(key = "#id")
+    public News getById(Serializable id) {
+    
+        return super.getById(id);
+    }
+    
+    @Override
+    @Transactional
+    @CachePut(key = "#news.newsId")
+    public News save(News news) {
+        
+        super.save(news);
+        return news;
+    }
+    
+    @Override
+    @CachePut(key = "#news.newsId")
+    public News updateById(News news) {
+        
+        return super.updateById(news);
+    }
+    
+    @Override
+    @CacheEvict(key = "#id")
+    public boolean removeById(Serializable id) {
+        
+        return super.removeById(id);
+    }
+}
+```
+With @Cacheable annotation, pair with the key "id" will be cached into Redis when we do the query. Thus when doing the same query again, the sql won't be sent to the database again. @CachePut basically does similar things. @CacheEvict is used to delete data from cache when certain entity is removed from database.
