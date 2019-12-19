@@ -34,7 +34,7 @@ public class CacheConfig {
                         .fromSerializer(stringRedisSerializer))
                 .serializeValuesWith(RedisSerializationContext.SerializationPair
                         .fromSerializer(jackson2JsonRedisSerializer))
-                .entryTtl(Duration.ofMinutes(1L))
+                .entryTtl(Duration.ofMinutes(2L))
                 .disableCachingNullValues();
         
         RedisCacheManager cacheManager = RedisCacheManager

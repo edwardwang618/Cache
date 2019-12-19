@@ -12,15 +12,13 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.io.Serializable;
-import java.util.Collection;
-import java.util.List;
 
 @Service
 @CacheConfig(cacheNames = {"cms.news"}, cacheManager = "redisCacheManager")
 public class NewsServiceImpl extends ServiceImpl<NewsMapper, News> implements INewsService {
     
     @Override
-    @Cacheable(key = "#id")
+    @Cacheable(key = "#id", unless = "#result == null")
     public News getById(Serializable id) {
         return super.getById(id);
     }
@@ -35,7 +33,7 @@ public class NewsServiceImpl extends ServiceImpl<NewsMapper, News> implements IN
     }
     
     @Override
-    @CachePut(key = "#news.newsId")
+    @CachePut(key = "#result.newsId")
     public News updateById(News news) {
         
         return super.updateById(news);

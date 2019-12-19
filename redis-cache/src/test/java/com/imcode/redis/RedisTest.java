@@ -1,6 +1,5 @@
 package com.imcode.redis;
 
-import com.imcode.common.config.RedisConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,7 +21,7 @@ public class RedisTest {
     
     @Test
     public void getTest() {
-        System.out.println(redisTemplate.opsForValue().get("com.imcode.cms.news::20"));
+        System.out.println(redisTemplate.opsForValue().get("cms.news::20"));
         // System.out.println(redisTemplate.opsForValue().get("k2"));
     }
     
