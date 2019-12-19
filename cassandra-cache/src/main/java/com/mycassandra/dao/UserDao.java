@@ -28,10 +28,15 @@ public class UserDao {
         return template.insert(user);
     }
 
-//    @Cacheable(key = "#id")
+    @Cacheable(key = "#id")
     public User getOneById(Integer id) {
         simulateSlowService();
         return template.selectOneById(id, User.class);
+    }
+
+    @Cacheable(key = "#user.userid")
+    public User setOneById(User user) {
+        return template.update(user);
     }
 
     private void simulateSlowService() {

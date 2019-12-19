@@ -28,9 +28,15 @@ class UserDaoTest {
     }
 
     @Test
-    public void getOneById() {
+    public void getOneByIdTest() {
         System.out.println(userDao.getOneById(3));
         System.out.println(userDao.getOneById(3));
         System.out.println(userDao.getOneById(3));
+    }
+
+    @Test
+    public void setOneByIdTest() {
+        userDao.setOneById(new User(4, "Yao", "King"));
+        System.out.println(userDao.getOneById(4));
     }
 }
