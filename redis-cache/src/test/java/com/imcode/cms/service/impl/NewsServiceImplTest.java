@@ -9,6 +9,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -38,8 +41,8 @@ public class NewsServiceImplTest {
     
     @Test
     public void getTest() {
-        // System.out.println(newsService.getById(6223228));
-        System.out.println(newsService.getById(100));
+        System.out.println(newsService.getById(6223228));
+        // System.out.println(newsService.getById(100));
     }
     
     @Test

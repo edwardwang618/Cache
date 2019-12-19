@@ -73,22 +73,4 @@ public class RedisConfig {
         return redisTemplate;
     }
     
-    @Bean
-    public CacheManager cacheManager() {
-        RedisCacheConfiguration config = RedisCacheConfiguration.defaultCacheConfig();
-        
-        config = config
-                .serializeValuesWith(RedisSerializationContext.SerializationPair
-                .fromSerializer(jackson2JsonRedisSerializer()))
-                .entryTtl(Duration.ofMinutes(1L))
-                .disableCachingNullValues();
-        
-        RedisCacheManager cacheManager = RedisCacheManager
-                .builder(redisConnectionFactory)
-                .cacheDefaults(config)
-                .build();
-        
-        return cacheManager;
-    }
-    
 }
