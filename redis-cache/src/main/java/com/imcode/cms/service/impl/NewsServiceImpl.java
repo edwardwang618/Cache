@@ -14,7 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.io.Serializable;
 
 @Service
-@CacheConfig(cacheNames = "com.imcode.cms.news")
+@CacheConfig(cacheNames = "cms.news")
 public class NewsServiceImpl extends ServiceImpl<NewsMapper, News> implements INewsService {
     
     @Override

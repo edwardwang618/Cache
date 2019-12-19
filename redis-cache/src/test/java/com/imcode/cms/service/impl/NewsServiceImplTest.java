@@ -22,8 +22,8 @@ public class NewsServiceImplTest {
     @Test
     public void testTransaction() {
         News news = newsService.getById(20);
-        news.setNewsId(null);
-        newsService.save(news);
+        // news.setNewsId(null);
+        // newsService.save(news);
         System.out.println(news);
     }
     
