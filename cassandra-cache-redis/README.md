@@ -1,4 +1,4 @@
-#Cassandra with Spring Cache
+#Cassandra query, Spring Cache implemented with Redis
 
 The table structure is as such:
 ```$xslt
@@ -13,4 +13,4 @@ CREATE TABLE sample.news (
 
 The source of the news "source" is the partition key of this table, 
 while the news_id is the clustering key of the table. Within each partition, 
-the news will be ordered in ascending way based on the news_id.
+the news will be ordered ascendingly based on the news_id.
