@@ -32,7 +32,7 @@ public class NewsServiceImpl implements NewsService {
     @Override
     @Cacheable(key = "#key")
     public News getByKey(NewsKey key) {
-        simulateSlowService();
+        simulateSlowService();  // sleep 2 sec
         return newsRepository.findById(key).orElse(null);
     }
 
