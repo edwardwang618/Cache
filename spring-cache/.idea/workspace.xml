@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa01f19f-68d6-4edd-a47d-e48a154d6725" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../redis-cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../redis-cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redis-cache/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/related/cms_news.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/IBootApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/cms/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/cms/mapper/NewsMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/cms/service/INewsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/cms/service/impl/NewsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/common/config/CacheConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/common/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/common/service/IService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/java/com/imcode/common/service/impl/ServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../redis-cache/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/resources/log4j2-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/main/resources/mapper/cms/NewsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/test/java/com/imcode/IBootApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/test/java/com/imcode/cms/service/impl/NewsServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/src/test/java/com/imcode/redis/RedisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../redis-cache/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/target/classes/log4j2-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-cache/target/classes/mapper/cms/NewsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/caching/CachingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/caching/caching/AppRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/caching/caching/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/caching/caching/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/caching/caching/SimpleBookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/caching/CachingApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VGUVr8mIvXMQnSJYMyKYamXv5O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.caching.caching" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SimpleBookRepositoryTest.getByIsbnTest">
+    <configuration name="SimpleBookRepositoryTest.getByIsbnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="caching" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.caching.caching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.caching.caching" />
+      <option name="MAIN_CLASS_NAME" value="com.example.caching.caching.SimpleBookRepositoryTest" />
+      <option name="METHOD_NAME" value="getByIsbnTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleBookRepositoryTest.saveOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="caching" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.caching.caching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.caching.caching" />
+      <option name="MAIN_CLASS_NAME" value="com.example.caching.caching.SimpleBookRepositoryTest" />
+      <option name="METHOD_NAME" value="saveOrUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CachingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="caching" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.caching.CachingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleBookRepositoryTest.getByIsbnTest" />
+        <item itemvalue="JUnit.SimpleBookRepositoryTest.saveOrUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa01f19f-68d6-4edd-a47d-e48a154d6725" name="Default Changelist" comment="" />
+      <created>1576878951990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576878951990</updated>
+      <workItem from="1576878956004" duration="4917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="283" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576880316504">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="382" y="283" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.972@0.23.1680.972" timestamp="1576880316504" />
+    <state width="1037" height="373" key="GridCell.Tab.0.bottom" timestamp="1577119841537">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1037" height="373" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1576882543845" />
+    <state width="1037" height="373" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1577119841537" />
+    <state width="1037" height="373" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1577119342939" />
+    <state width="1037" height="373" key="GridCell.Tab.0.center" timestamp="1577119841536">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1037" height="373" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1576882543844" />
+    <state width="1037" height="373" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1577119841536" />
+    <state width="1037" height="373" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1577119342939" />
+    <state width="1037" height="373" key="GridCell.Tab.0.left" timestamp="1577119841536">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1037" height="373" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1576882543844" />
+    <state width="1037" height="373" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1577119841536" />
+    <state width="1037" height="373" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1577119342939" />
+    <state width="1037" height="373" key="GridCell.Tab.0.right" timestamp="1577119841537">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1037" height="373" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1576882543844" />
+    <state width="1037" height="373" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1577119841537" />
+    <state width="1037" height="373" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1577119342939" />
+    <state width="1247" height="254" key="GridCell.Tab.1.bottom" timestamp="1576880441118">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1247" height="254" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1576880441118" />
+    <state width="1247" height="254" key="GridCell.Tab.1.center" timestamp="1576880441117">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1247" height="254" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1576880441117" />
+    <state width="1247" height="254" key="GridCell.Tab.1.left" timestamp="1576880441116">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1247" height="254" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1576880441116" />
+    <state width="1247" height="254" key="GridCell.Tab.1.right" timestamp="1576880441117">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1247" height="254" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1576880441117" />
+    <state x="325" y="118" key="SettingsEditor" timestamp="1577119697932">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="325" y="118" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1576879242813" />
+    <state x="325" y="118" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1577119697932" />
+    <state x="394" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576880231845">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="394" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.972@0.23.1680.972" timestamp="1576880231845" />
+  </component>
+</project>
