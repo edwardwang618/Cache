@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4208d16-22f6-4a01-92a6-e98a0117fd76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/caching/caching/AppRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/caching/caching/AppRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V4wgu0bvxL9uIs9tXlnszcVZ3S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CachingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-caching" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.caching.CachingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4208d16-22f6-4a01-92a6-e98a0117fd76" name="Default Changelist" comment="" />
+      <created>1576525790138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576525790138</updated>
+      <workItem from="1576525794853" duration="942000" />
+      <workItem from="1576526760345" duration="1525000" />
+      <workItem from="1576528526319" duration="174000" />
+      <workItem from="1576571981923" duration="410000" />
+      <workItem from="1576612583685" duration="1173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1020" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1576572168648">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="1020" y="235" key="#com.intellij.ide.util.MemberChooser/0.23.1680.978@0.23.1680.978" timestamp="1576572168648" />
+    <state x="749" y="117" key="CommitChangelistDialog2" timestamp="1576528417725">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="749" y="117" key="CommitChangelistDialog2/0.23.1680.978@0.23.1680.978" timestamp="1576528417725" />
+    <state width="924" height="270" key="GridCell.Tab.0.bottom" timestamp="1576615337388">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1576615337388" />
+    <state width="924" height="270" key="GridCell.Tab.0.center" timestamp="1576615337388">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1576615337388" />
+    <state width="924" height="270" key="GridCell.Tab.0.left" timestamp="1576615337387">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1576615337387" />
+    <state width="924" height="270" key="GridCell.Tab.0.right" timestamp="1576615337388">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1576615337388" />
+    <state width="924" height="270" key="GridCell.Tab.1.bottom" timestamp="1576615337389">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.1.bottom/0.23.1680.978@0.23.1680.978" timestamp="1576615337389" />
+    <state width="924" height="270" key="GridCell.Tab.1.center" timestamp="1576615337388">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.1.center/0.23.1680.978@0.23.1680.978" timestamp="1576615337388" />
+    <state width="924" height="270" key="GridCell.Tab.1.left" timestamp="1576615337388">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.1.left/0.23.1680.978@0.23.1680.978" timestamp="1576615337388" />
+    <state width="924" height="270" key="GridCell.Tab.1.right" timestamp="1576615337389">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="924" height="270" key="GridCell.Tab.1.right/0.23.1680.978@0.23.1680.978" timestamp="1576615337389" />
+    <state x="683" y="151" key="SettingsEditor" timestamp="1576572002741">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="683" y="151" key="SettingsEditor/0.23.1680.978@0.23.1680.978" timestamp="1576572002741" />
+    <state x="863" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1576612584329">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="863" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.978@0.23.1680.978" timestamp="1576612584329" />
+  </component>
+</project>
